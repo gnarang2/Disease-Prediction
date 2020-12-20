@@ -1,5 +1,5 @@
 # Disease-Prediction
-Developed a multi disease classifier using xception
+Developed a multi disease classifier using xception and incorporated it in a flask application to upload data and view predictions
 
 Data_processing is basically for analysis and checking model performance
 
